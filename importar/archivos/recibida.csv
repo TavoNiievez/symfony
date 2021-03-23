@@ -1,0 +1,31 @@
+radicado;remitente id;ext int id;destinatario id;medio id;folio;asunto;archivo;estado id ;usuario;fecha;hora;documento id;f termino
+CR-001-13;1;5;10;1;1;Solicitud Consejo Seguridad;CR-001-13.pdf;1;66933348;2013-02-04;08:28:01;3;0000-00-00
+CR-002-13;1;5;10;1;1;Solicitud comite orden publico;CR-002-13.pdf;1;66933348;2013-02-04;08:33:44;4;0000-00-00
+CR-003-13;1;7;10;1;3;Derecho de peticion;CR-003-13.pdf;1;66933348;2013-02-04;09:57:30;5;2013-02-25
+CR-004-13;1;9;100;1;1;Solicitud copia Acuerdo couta alimentos;CR-004-13.pdf;0;66933348;2013-02-04;10:52:07;6;2013-02-25
+CR-005-13;1;10;10;1;2;Revision contrato MV-001 de 2010;CR-005-13.pdf;1;66933348;2013-02-04;11:56:38;3;0000-00-00
+CR-006-13;1;11;10;1;2;Informe Ejecucion Financiera;CR-006-13.pdf;1;66933348;2013-02-04;14:17:12;3;0000-00-00
+CR-007-13;1;12;10;1;1;Envio de Cartilla Decreto 1092 de 2012;CR-007-13.pdf;1;66933348;2013-02-04;14:30:33;3;0000-00-00
+CR-008-13;1;13;10;1;17;Cierre proceso de aprobacion de solicitudes ;CR-008-13.pdf;1;66933348;2013-02-04;14:44:29;3;0000-00-00
+CR-009-13;1;14;10;1;1;Cotizacion;CR-009-13.pdf;1;66933348;2013-02-04;14:51:01;3;0000-00-00
+CR-010-13;1;15;10;1;2;Equipo Psicologia Comisaria de Familia;CR-010-13.pdf;1;66933348;2013-02-04;14:56:06;4;0000-00-00
+CR-011-13;1;15;100;1;2;Respuesta Oficio No. 01478-13 de 24 enero 2013;CR-011-13.pdf;1;66933348;2013-02-04;15:02:21;3;0000-00-00
+CR-012-13;1;17;10;1;2;Fijacion Autos de visita;CR-012-13.pdf;1;66933348;2013-02-04;16:11:47;6;2013-02-18
+CR-013-13;1;15;10;1;8;Socializacion participacion ni¤as, ni¤os adolecentes;CR-013-13.pdf;1;66933348;2013-02-04;16:36:59;3;0000-00-00
+CR-014-13;1;26;40;1;1;Certificacion Redes Acueducto y Alcantarillado;CR-014-13.pdf;1;66933348;2013-02-05;10:13:22;6;0000-00-00
+CR-015-13;1;27;60;1;4;;CR-015-13.pdf;1;66933348;2013-02-05;10:19:39;3;0000-00-00
+CR-016-13;1;28;40;1;1;Copia de Comunicado Union Temporal Jorge Robledo;CR-016-13.pdf;1;66933348;2013-02-05;10:31:20;3;0000-00-00
+CR-017-13;1;28;40;1;4;Comite Extraordinario;CR-017-13.pdf;1;66933348;2013-02-05;10:33:13;3;0000-00-00
+CR-018-13;1;28;40;1;2;Respuesta Oficio de 28 enero/2013;CR-018-13.pdf;1;66933348;2013-02-05;10:35:35;3;0000-00-00
+CR-019-13;1;28;40;1;2;Poliza segun acta de reinicio;CR-019-13.pdf;1;66933348;2013-02-05;10:37:22;4;0000-00-00
+CR-020-13;1;5;10;1;4;Solicitud Llanta motocicleta siglas 24-1541;CR-020-13.pdf;1;66933348;2013-02-05;11:10:56;4;0000-00-00
+CR-021-13;1;29;10;1;1;Solicitud;CR-021-13.pdf;1;66933348;2013-02-05;11:36:19;4;0000-00-00
+CR-022-13;1;30;90;1;1;Solicitud presentacion show;CR-022-13.pdf;1;66933348;2013-02-05;14:17:52;4;0000-00-00
+CR-023-13;1;31;80;1;4;Formulario acrediatacion umata;CR-023-13.pdf;1;66933348;2013-02-05;14:26:08;4;0000-00-00
+CR-024-13;1;33;30;1;2;;CR-024-13.pdf;1;66933348;2013-02-05;14:42:56;6;2013-02-28
+CR-025-13;1;34;40;1;17;Licencia de Construccion;CR-025-13.pdf;1;66933348;2013-02-05;15:00:59;6;2013-02-18
+CR-026-13;1;35;10;1;1;Mantenimientos de Equipo;CR-026-13.pdf;1;66933348;2013-02-05;15:17:24;4;0000-00-00
+CR-027-13;1;35;80;1;2;Necesidades;CR-027-13.pdf;1;66933348;2013-02-05;15:23:12;4;0000-00-00
+CR-028-13;1;20;50;1;3;Requisitos solicitud presentacion servicios defensa;CR-028-13.pdf;1;66933348;2013-02-05;16:17:14;3;0000-00-00
+CR-029-13;1;5;10;1;4;Solicitud registro y allanamiento establecimientos;CR-029-13.pdf;1;66933348;2013-02-05;16:32:04;4;0000-00-00
+CR-030-13;1;37;30;1;1;;;1;66933348;2013-02-06;08:24:51;6;2013-02-12

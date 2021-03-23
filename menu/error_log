@@ -1,0 +1,6 @@
+[11-Jul-2017 13:03:23 UTC] PHP Notice:  Undefined index: 0d85e9ee2c913adcdfac41c45314e58c in /home/inderval/public_html/ventanillaunica/utils/SessionPhp.php on line 9
+[11-Jul-2017 13:03:23 UTC] PHP Notice:  Undefined variable: sbHtml in /home/inderval/public_html/ventanillaunica/includes/menu.php on line 50
+[11-Jul-2017 13:03:23 UTC] PHP Notice:  Undefined index: df28e8a5a1b9ef95fceada2c03f3aede in /home/inderval/public_html/ventanillaunica/utils/SessionPhp.php on line 9
+[16-Jul-2017 07:22:52 UTC] PHP Notice:  Undefined index: 0d85e9ee2c913adcdfac41c45314e58c in /home/inderval/public_html/ventanillaunica/utils/SessionPhp.php on line 9
+[16-Jul-2017 07:22:52 UTC] PHP Notice:  Undefined variable: sbHtml in /home/inderval/public_html/ventanillaunica/includes/menu.php on line 50
+[16-Jul-2017 07:22:52 UTC] PHP Notice:  Undefined index: df28e8a5a1b9ef95fceada2c03f3aede in /home/inderval/public_html/ventanillaunica/utils/SessionPhp.php on line 9

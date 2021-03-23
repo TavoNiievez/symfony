@@ -1,0 +1,278 @@
+
+crearMemoPlaneacion.completo .oculto{
+display:inline;
+}
+crearMemoPlaneacion .oculto{
+display:none;
+}
+
+#logo {
+/*width: 85%;*/
+}
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#333333;
+	background-color:#f7ab59;
+	margin:50px;
+    background-image: url(img/Colombia.jpg);
+}
+}
+#wrapper {
+
+	width:85%;
+	margin:auto;
+	background-color:#FFFFFF;	
+}
+#header {
+
+	/* text-align:right;
+
+	background-image:url(img/header_bg.png);
+	
+	background-repeat:no-repeat;
+	height: 230px; tamaño imagen */ 
+	/* width: 100%;  tamaño imagen */
+	/*background-color:#2c3e50;
+	opacity: 0.6;*/
+}
+
+
+#menu , #footer{
+    height:8%;
+	background-image:url(img/menu_bg.png);
+	background-repeat: no-repeat;
+	background-position:center; 
+	background-size: 100% 100%;
+	text-align:center;
+
+	}
+
+
+#menu a, #footer a{
+	color:#FFFFFF;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:12px;
+
+}#contenido a {
+	color:#29734A;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:11px;
+
+}
+
+#menu a:hover, #footer a:hover{
+	text-decoration:underline;
+}
+#contenido {
+	padding:20px;
+	background-color:#fff !important;  
+}
+
+#wrapper > center {
+	padding:20px;
+	background-color:#fff !important;  
+}
+
+form {
+	padding:20px;
+	background-color:#fff !important;  
+}
+
+#contenido label {
+	font-size:10px;
+}
+#icono{
+	width:	25px;
+   height:	25px;
+}
+
+
+#subMenu {
+
+	float:right;
+    height:40px;
+    width:300px;
+	line-height: 50px;}
+#footer {
+	
+	height:8%;
+	/*background-image:url(img/footer_bg.png);*/
+	background-repeat: no-repeat;
+	background-position:center; 
+	background-size: 100% 100%;
+	text-align:center;
+	background-color: #2c3e50;
+}
+
+#footer_n {
+	
+	color:white;
+	height:8%;
+	text-align:center;
+	background-color: #2c3e50;
+}
+#footer_n a {
+	
+	color:white;
+}
+
+h1 {
+	color:#29734A;
+	font-size:18px;
+	border-bottom:1px solid #29734A;
+	padding-bottom:10px;
+}h2 {
+	color:#29734A;
+	font-size:14px;
+	padding-bottom:10px;
+}
+
+#Dias_PGA  input[type="text"] {
+   width:25px;
+   text-align: center
+}
+
+#Resultado_Fechas  input[type="text"] {
+   width:170px;
+   text-align: center
+}
+
+#Listado table{
+
+	border: 1px solid #29734A;
+    border-spacing: 1px;
+    border-collapse: 2000px;
+    width: 1000px;
+		
+}
+#ConsultaLista table {
+
+
+	border: 1px solid #29734A;
+    border-spacing: 1px;
+    border-collapse: 2000px;
+    width: 1000px;
+		
+		}
+#Listado th {
+	font-size:11px;
+    text-align: center;
+    font-weight: bold;
+    padding: 7px;
+    border: 1px solid #29734A;
+    background: #29734A;
+    color: #FFFFFF;
+}
+
+#Listado  td {
+	font-size:11px;
+    text-align:
+	center;
+    padding: 4px;
+    border: 1px solid #E0F8EC;
+    background: #E0F8EC;
+}
+
+#ConsultaLista  td {
+	font-size:10px;
+
+    text-align: center;
+    padding: 4px;
+    border: 1px solid #e3f0f7;
+    background: #E0F8EC;
+}
+#ConsultaLista td {
+    background: #E0F8EC;
+}
+
+
+#Listado img {
+   width:	25px;
+   height:	25px;
+   }taLista td {
+    background: #f7f7f7;
+}
+
+
+#Listado img {
+   width:	25px;
+   height:	25px;
+   }
+   
+   
+   
+ 
+#ListadoMaestro table{
+
+	border: 1px solid #29734A;
+    border-spacing: 1px;
+    border-collapse: 2000px;
+    width:600px;
+		
+}
+#ConsultaListaMaestro table {
+
+
+	border: 1px solid #29734A;
+    border-spacing: 1px;
+    border-collapse: 2000px;
+    width: 600px;
+		
+		}
+#ListadoMaestro th {
+	font-size:11px;
+    text-align: center;
+    font-weight: bold;
+    padding: 7px;
+    border: 1px solid #29734A;
+    background: #29734A;
+    color: #FFFFFF;
+}
+
+#ListadoMaestro  td {
+	font-size:10px;
+    text-align:
+	center;
+    padding: 4px;
+    border: 1px solid #E0F8EC;
+    background: #E0F8EC;
+}
+
+#ConsultaListaMaestro  td {
+	font-size:10px;
+
+    text-align: center;
+    padding: 4px;
+    border: 1px solid #e3f0f7;
+    background: #E0F8EC;
+}
+#ConsultaListaMaestro td {
+    background: #E0F8EC;
+}
+#ListadoMaestro td {
+    background: #E0F8EC;
+}
+
+#ListadoMaestro img {
+   width:	25px;
+   height:	25px;
+   }taLista td {
+    background: #f7f7f7;
+}
+#ListadoMaestro td {
+    background: #E0F8EC;
+}
+
+#ListadoMaestro img {
+   width:	25px;
+   height:	25px;
+   }
+   
+ #Alerta {
+ 
+ color:#FF080C;
+ 
+ }
